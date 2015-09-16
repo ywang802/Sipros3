@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/262/trunk/Sipros3.0/Sipros-src
+END
+ptm.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/ptm.h
+END
+proteindatabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/proteindatabase.cpp
+END
+ms2scan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/ms2scan.cpp
+END
+tokenvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/tokenvector.h
+END
+proteindatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/proteindatabase.h
+END
+ms2scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/ms2scan.h
+END
+SiprosConfigIsobaricTags.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/262/trunk/Sipros3.0/Sipros-src/SiprosConfigIsobaricTags.cfg
+END
+SiprosConfig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/SiprosConfig.cfg
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/main.cpp
+END
+directoryStructure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/directoryStructure.cpp
+END
+sipros_openmp.kdev4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/sipros_openmp.kdev4
+END
+proNovoConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/proNovoConfig.cpp
+END
+isotopologue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/isotopologue.cpp
+END
+ms2scanvector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/ms2scanvector.cpp
+END
+peptide.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/peptide.cpp
+END
+mpimain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/mpimain.cpp
+END
+directoryStructure.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/directoryStructure.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/Makefile
+END
+isotopologue.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/isotopologue.h
+END
+proNovoConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/proNovoConfig.h
+END
+ms2scanvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/ms2scanvector.h
+END
+SiprosConfig.N15_SIP.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/262/trunk/Sipros3.0/Sipros-src/SiprosConfig.N15_SIP.cfg
+END
+peptide.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/peptide.h
+END
+ptm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/ptm.cpp
+END
+MPIMakefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/MPIMakefile
+END
+SiprosConfigPTM.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/262/trunk/Sipros3.0/Sipros-src/SiprosConfigPTM.cfg
+END
+tokenvector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/tokenvector.cpp
+END
+SiprosConfigRegular.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/262/trunk/Sipros3.0/Sipros-src/SiprosConfigRegular.cfg
+END
+SiprosConfigLow.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/224/trunk/Sipros3.0/Sipros-src/SiprosConfigLow.cfg
+END
